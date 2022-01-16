@@ -29,5 +29,4 @@ $ ./gradlew build
 Artifacts will be placed under `build/libs` directory. 
 
 ## License
-AutoGG is licensed under **GNU GPLv3** see: [LICENSE](LICENSE)
-AutoL is not licensed.
+AutoGG and AutoL is licensed under **GNU GPLv3** see: [LICENSE](LICENSE)
