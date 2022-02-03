@@ -55,7 +55,7 @@ public class AutoGGCommand extends CommandBase {
 
     @Override
     public String getCommandName() {
-        return "autogg";
+        return "autol";
     }
 
     @Override
